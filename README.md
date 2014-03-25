@@ -1,0 +1,4 @@
+Algoritmalar
+============
+
+Python ile çalışmalar
